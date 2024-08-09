@@ -1,0 +1,4 @@
+android-studio
+fcitx5-pinyin-custom-pinyin-dictionary
+v2raya
+visual-studio-code-bin
