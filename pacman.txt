@@ -178,11 +178,14 @@ scons
 sddm-kcm
 sg3_utils
 smartmontools
+snap-pac
+snapper
 sof-firmware
 spectacle
 sudo
 sysfsutils
 systemd-sysvcompat
+tesseract-data-eng
 texinfo
 tldr
 ttf-bitstream-vera
@@ -196,6 +199,7 @@ upower
 usb_modeswitch
 usbutils
 vi
+vulkan-radeon
 welcome
 wget
 which
