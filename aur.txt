@@ -2,5 +2,7 @@ android-studio
 btrfs-assistant
 fcitx5-pinyin-custom-pinyin-dictionary
 pot-translation-bin
+snapper-gui-git
+tlrc-bin
 v2raya
 visual-studio-code-bin

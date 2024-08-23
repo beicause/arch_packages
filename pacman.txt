@@ -14,6 +14,7 @@ blender
 bluedevil
 bluez
 bluez-utils
+bottom
 breeze-gtk
 btrfs-progs
 cantarell-fonts
@@ -63,6 +64,7 @@ git
 git-lfs
 glances
 grub
+grub-btrfs
 gst-libav
 gst-plugin-pipewire
 gst-plugins-bad
@@ -95,6 +97,7 @@ kio-admin
 kio-extras
 kio-fuse
 konsole
+krita
 kscreen
 ktorrent
 kwallet-pam
@@ -159,6 +162,7 @@ plasma-workspace
 poppler-glib
 power-profiles-daemon
 powerdevil
+pre-commit
 print-manager
 pv
 python
@@ -187,7 +191,6 @@ sysfsutils
 systemd-sysvcompat
 tesseract-data-eng
 texinfo
-tldr
 ttf-bitstream-vera
 ttf-dejavu
 ttf-fira-code
