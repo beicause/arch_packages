@@ -30,7 +30,9 @@ dolphin-plugins
 dosfstools
 downgrade
 dracut
+dua-cli
 duf
+dust
 e2fsprogs
 efibootmgr
 efitools
@@ -176,7 +178,7 @@ reflector-simple
 reiserfsprogs
 rsync
 rtkit
-rust
+rustup
 s-nail
 scons
 sddm-kcm
