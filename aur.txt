@@ -2,6 +2,7 @@ android-studio
 btrfs-assistant
 bun-bin
 fcitx5-pinyin-custom-pinyin-dictionary
+linuxqq
 micromamba-bin
 pot-translation-bin
 snapper-gui-git
@@ -11,3 +12,4 @@ v2raya
 visual-studio-code-bin
 wechat-uos-qt
 wps-office-cn
+wps-office-mui-zh-cn
