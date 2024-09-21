@@ -127,6 +127,7 @@ man-pages
 mdadm
 meld
 mesa-utils
+meson
 modemmanager
 mold
 mtools
@@ -208,6 +209,7 @@ upower
 usb_modeswitch
 usbutils
 vi
+vivaldi
 vulkan-radeon
 welcome
 wget
