@@ -164,6 +164,7 @@ plasma-nm
 plasma-pa
 plasma-systemmonitor
 plasma-workspace
+plasma-workspace-wallpapers
 plocate
 pnpm
 poppler-glib

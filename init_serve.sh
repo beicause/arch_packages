@@ -1,9 +1,12 @@
 #!/bin/bash
 
-sudo apt-get install git
-git clone https://github.com/ecdye/zram-config
-sudo ./zram-config/install.bash
-rm -r zram-config
+# loginctl enable-linger 1000
+
+sudo -i
+apt install git
+rm -rf zram-config
+git clone --recurse-submodules https://github.com/ecdye/zram-config
+./zram-config/install.bash
 echo "# swap	alg		mem_limit	disk_size	swap_priority	page-cluster	swappiness" > /etc/ztab
 echo "swap	zstd		   0		 1G	    	75		         0		      150" >> /etc/ztab
 
