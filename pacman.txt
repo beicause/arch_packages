@@ -84,6 +84,7 @@ inkscape
 inxi
 iptables-nft
 iwd
+jdk17-openjdk
 jfsutils
 just
 kate
@@ -167,6 +168,8 @@ plasma-workspace
 plasma-workspace-wallpapers
 plocate
 pnpm
+podman
+podman-compose
 poppler-glib
 power-profiles-daemon
 powerdevil

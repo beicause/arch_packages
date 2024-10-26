@@ -1,7 +1,7 @@
 android-studio
 btrfs-assistant
-bun-bin
 fcitx5-pinyin-custom-pinyin-dictionary
+glaxnimate
 linuxqq
 micromamba-bin
 pot-translation-bin
