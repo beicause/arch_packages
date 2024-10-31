@@ -12,9 +12,10 @@ echo "swap	zstd		   0		 1G	    	75		         0		      150" >> /etc/ztab
 
 apt install podman
 
-mkdir -p /etc/x-ui/db
-mkdir -p /etc/x-ui/cert
-cd /etc/x-ui
+mkdir -p ./x-ui/db
+mkdir -p ./x-ui/cert
+cp ./x-ui.db ./x-ui/db
+cd ./x-ui
 podman run -itd --network=host \
     -v $PWD/db/:/etc/x-ui/ \
     -v $PWD/cert/:/root/cert/ \

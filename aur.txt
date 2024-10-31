@@ -1,5 +1,6 @@
 android-studio
 btrfs-assistant
+defold
 fcitx5-pinyin-custom-pinyin-dictionary
 glaxnimate
 linuxqq
@@ -8,6 +9,7 @@ pot-translation-bin
 snapper-gui-git
 tlrc-bin
 ttf-wps-fonts
+upscayl-bin
 v2raya
 visual-studio-code-bin
 wechat-uos-qt
